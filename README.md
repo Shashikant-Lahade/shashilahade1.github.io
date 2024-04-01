@@ -1,4 +1,4 @@
-# Shashikatn Lahade
+# Shashikant Lahade
 
 ## Professional Experience
 - **Job Title** at Company Name (Date Range)
