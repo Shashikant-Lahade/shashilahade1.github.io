@@ -1,2 +1,2 @@
-# Shashi_Lahade.gitub.io
+# Shashi_Lahade.github.io
 CV
